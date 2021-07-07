@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1625667234 source:c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"input.h"
+	"pais.h"
+	"parser.h"
+	<string.h>
+
+1625667141 c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\controller.h
+	"LinkedList.h"
+
+1625270420 c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\linkedlist.h
+
+1624974459 c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\input.h
+
+1625666968 c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\pais.h
+	"LinkedList.h"
+
+1625270217 c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\parser.h
+
+1624974330 source:c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"input.h"
+	<ctype.h>
+
+1625665393 source:c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+
+1625667319 source:c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+	"input.h"
+
+1625667160 source:c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+	"input.h"
+
+1625665000 source:c:\users\agust\desktop\segundo parcial labo\agustina.carazo.splab1\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pais.h"
+	"Controller.h"
+	"input.h"
+	"LinkedList.h"
+	"parser.h"
+
